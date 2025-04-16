@@ -11,6 +11,6 @@ This programme include HUST educoder C programming reference code, which is aime
 first learning C programming. Student from School of Future Technology or CS may benefit from this programme.<br>
 
 **Limited by my ability, I couldn't ensure that the code are entirely correct and meet the requirements of the topic.<br>**
-**This code is for reference only, I recommend not to directly copy the code**.<br>**
+**This code is for reference only, I recommend not to directly copy the code**.<br>
 
 The programme is based on other resources. AI generated comtent was concluded in this programme.   
